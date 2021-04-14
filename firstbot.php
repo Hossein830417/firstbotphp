@@ -3,7 +3,7 @@ ini_set('error_logs','off');
 #fill outs
 $token='1772106908:AAEaq1a6_nKNhWl0QOr37bk0H94DLE5xdVI';//توکن
 $admin='618100449';//ایدی ادمین
-$UpAd = ''; // ادرس پوشه اپلود
+$UpAd = 'https://github.com/Hossein830417/firstbotphp/blob/main/'; // ادرس پوشه اپلود
 #defines
 define('API_KEY',$token);
 define('ADMIN',$admin);
